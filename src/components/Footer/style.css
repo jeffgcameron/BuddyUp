@@ -1,0 +1,24 @@
+.footer-div {
+    background-color: #445D71 !important ;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 8vh;
+}
+
+.footer-icon-div {
+    color: rgb(196, 196, 196);
+}
+
+.footer-icon {
+    font-size: 5vh;
+}
+.css-1ee5err-MuiButtonBase-root-MuiBottomNavigationAction-root.Mui-selected{
+    color: white !important;
+}

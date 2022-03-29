@@ -1,0 +1,49 @@
+.container {
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+
+#profile-pic {
+ height: 15vh;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ border-radius: 100%;
+ margin-top: 5vh;
+}
+
+#profile-name {
+    text-align: center;
+    font-family: 'Economica', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#profile-bio {
+    text-align: center;
+    font-family: 'Economica', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.profile-subheader{
+    font-family: 'Economica', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#profile-activities, #profile-certs {
+    font-family: 'Economica', sans-serif;
+    /* font-weight: bold; */
+    font-size: 15px;
+    margin-left: 2.5vh;
+}
+
+#profile-buddy-button {
+    background-color: #445D71;
+    display: block;
+    margin-top: 7.5vh;
+    margin-left: auto;
+    margin-right: auto;
+    /* font-weight: bold; */
+}

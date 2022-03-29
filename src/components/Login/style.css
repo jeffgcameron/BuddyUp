@@ -1,0 +1,53 @@
+.login-body-div {
+    background-color: #445D71;
+    height: 100vh;
+}
+.login-logo {
+    width: 75%;
+    padding-top: 10vh;
+    margin-bottom: 10vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.login-text{
+    text-align: center;
+    color: white;
+    font-family: 'Economica', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#login-div {
+    text-align: center;
+}
+
+#login-break {
+    height: 2vh;
+}
+
+#login-email, #login-password {
+    background-color: white;
+   
+}
+
+.login-footer {
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+
+#create-account-link-div {
+    margin-top: 2.5vh;
+    text-align: center;
+}
+
+#login-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #445D71;
+    background-color: white;
+    margin-top: 2.5vh;
+}
